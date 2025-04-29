@@ -5,6 +5,7 @@ app_description = "For summing up daily over time"
 app_email = "safdar211@gmail.com"
 app_license = "mit"
 
+doctype_js = {"Shift Type": "public/js/shift_type.js"}
 # Apps
 # ------------------
 
@@ -241,4 +242,5 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
+
 
