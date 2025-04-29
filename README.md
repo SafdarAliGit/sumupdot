@@ -4,4 +4,4 @@ For summing up daily over time
 
 #### License
 
-mit
+mit# sumupdot
